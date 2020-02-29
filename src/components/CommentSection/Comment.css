@@ -1,3 +1,4 @@
+
 .comment-text {
   text-align: left;
   padding: 2px;
@@ -11,7 +12,7 @@
   width: 100%;
 }
 .comment-form input {
-  width: 100%;
+  width: 90%;
   font-size: 14px;
   padding: 10px;
   border: none;
